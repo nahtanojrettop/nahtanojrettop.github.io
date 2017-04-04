@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Dad/Documents/Jonathans_Code/Lehi Game 1/Assets/Game.unity
+  isLoaded: 1
+  isActive: 1

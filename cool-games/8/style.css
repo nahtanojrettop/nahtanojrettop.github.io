@@ -1,0 +1,30 @@
+body {
+
+background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b9/68/4d/b9684d7908f584bd93d645661760e948.jpg")
+
+}
+
+.white {
+color: white;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
