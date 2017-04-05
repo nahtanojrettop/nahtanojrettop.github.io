@@ -1,0 +1,169 @@
+
+        h2 {
+            color: navy;
+            
+ 
+   
+   
+   
+    }
+        h3 {
+            color: navy;
+            
+        }
+        h4 {
+            color: navy;
+            
+        }
+        h5 {
+            color: navy;
+            
+        }
+        
+        .Authors {
+            
+            position:absolute; 
+            top: 640px;
+            left: 0px;
+            border:5px solid black;
+            width: 21%;
+            height: 141px;
+            overflow: auto;
+        }
+    .Sports {
+            position:absolute; 
+            top: 1188px;
+            left: 0px;
+            border: 5px solid black;
+            width: 21%;
+            height: 141px;
+            overflow: auto;
+        }
+        .Story {
+            text-align:center;
+            position:absolute; 
+            top: 384px;
+            left: 850px;
+            
+        }
+        .Principal {
+            border:5px solid rgb(250, 103, 115);
+             position:absolute; 
+            top: 790px;
+            left: 0px;
+            width: 21%;
+            height: 141px;
+            overflow: auto;
+        }
+        .Archive {
+            position:absolute; 
+            top: 1414px;
+            left: 32px;
+        }
+        .Short_Story {
+            border:5px solid navy;
+            position:absolute; 
+            top: 487px;
+            left: 0px;
+            width: 21%;
+            height: 141px;
+            overflow: auto;
+        }
+       
+        .undefined {
+            position:absolute; 
+            top: 1640px;
+            left: 240px;
+        }
+        .Ethan {
+            position:absolute; 
+            top: 940px;
+            left: 0px;
+            border: 5px solid black;
+            width: 21%;
+            height: 238px;
+            overflow: auto;
+        }
+        
+        .Lunch {
+            position:absolute; 
+            top: 344px;
+            left: 0px;
+            border: 5px solid black;
+            width: 21%;
+            height: 134px;
+            overflow: auto;
+        }
+        .Star_Student {
+            position:absolute; 
+            top: 87px;
+            right: 10px;
+            border: 10px solid yellow;
+            width: 21%;
+            height: 238px;
+            overflow: auto;
+        }
+        .Coding{
+            position:absolute;
+            top: 1995px;
+            left: 240px;
+        }
+        
+        body {
+            background-color:khaki;
+            font-family: "Roboto Slab", Arial, Helvetica, sans-serif !important;
+            
+        }
+        #Breaking_News {
+            color:red;
+            text-align: center;
+            border: 5px solid red;
+            
+        }
+        li a{
+            color: green;
+            text-align: left;
+        }
+        p {
+            color: green;
+            
+            
+        }
+        #Edition1 {
+            border:5px solid black;
+            position:absolute; 
+            top: 4386px;
+            left: 0px;
+        }
+        .JEP {
+            font-family:cursive;
+            
+        }
+        .HQF {
+            font-family:impact;
+            
+        }
+        .FCN {
+            font-family:sans-serif;
+            
+        }
+        .JCP {
+            font-family:Merriweather;
+            
+        }
+        .SNF {
+            font-family:Georgia;
+        }
+        .EAC {
+            
+        }
+        .TJF {
+            
+        }
+        .LW {
+            
+        }
+        .HB {
+            
+        }
+  
