@@ -2,9 +2,9 @@
 Personal website
 Its bacicly my intire code in one place
 
-#Examples
+# Examples
 
 
-Name | File Type | Link
---- | --- |:---:
-Main | Html |<a href="">Main.html</a>
+Name | File Type | Purpose | Link
+--- | --- | --- |:---:
+Index | Html |  |<a href="https://github.com/nahtanojrettop/nahtanojrettop.github.io/blob/master/cool-games/test%20programs/index.html">index.html</a>
