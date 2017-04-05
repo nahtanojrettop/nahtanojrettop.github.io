@@ -2,7 +2,7 @@
 Personal website
 Its bacicly my intire code in one place
 
-# Examples
+# Files
 
 
 Name | File Type | Purpose | Link
